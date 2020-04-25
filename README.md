@@ -32,4 +32,4 @@ Guide & Caution
    Flight controller support two GPS or not) or prime quality GPS.
 
 Recommended parts for this Quad-copter
-<img src="APM_component.png" height=1000>
+<img src="APM_component.png" height=500>
