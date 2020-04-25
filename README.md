@@ -31,6 +31,6 @@ Guide & Caution
    To overcome the problem, sometimes we use two GPS (we have to check the 
    Flight controller support two GPS or not) or prime quality GPS.
 
-Recommended parts for this Quad-copter                           our drone
+Recommended parts for this Quad-copter                                                                              our drone
 
 <img src="APM_component.png" height=350> <img src="our drone.jpg" height=350>
