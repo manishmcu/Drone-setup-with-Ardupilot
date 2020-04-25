@@ -33,4 +33,4 @@ Guide & Caution
 
 Recommended parts for this Quad-copter
 
-<img src="APM_component.png" height=400>
+<img src="APM_component.png" height=350>
