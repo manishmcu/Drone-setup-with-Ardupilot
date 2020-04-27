@@ -37,4 +37,4 @@ Guide & Caution
 
 Propellor Setup
 
-<img src="Propellor setup/Motor Position & Direction.jpg" width=350>
+<img src="Propellor setup/Motor Position & Direction.jpg" width=400>
