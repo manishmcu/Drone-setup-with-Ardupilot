@@ -36,4 +36,4 @@ Guide & Caution
 <img src="APM_component.png" height=350> <img src="our drone.jpg" height=350>
 
 Propellor Setup
-<img src="Motor Position & Direction.jpg" height=350>
+<img src="Propellor setup"/"Motor Position & Direction.jpg" height=350>
