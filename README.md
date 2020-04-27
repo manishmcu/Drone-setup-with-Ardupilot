@@ -1,7 +1,7 @@
 # Drone-setup-with-Ardupilot
 Setting up a Quad-copter using Ardupilot  (APM2.8).
 
-## Guide & Caution
+# Guide & Caution
 
 1. Any of the propeller should not attach during calibration.
 
@@ -35,6 +35,6 @@ Setting up a Quad-copter using Ardupilot  (APM2.8).
 
 <img src="APM_component.png" height=350> <img src="our drone.jpg" height=350>
 
-## Propellor Setup
+# Propellor Setup
 
 <img src="Propellor setup/Motor Position & Direction.jpg" width=400> <img src="Propellor setup/propellor_setup guide.jpg" width=450> 
