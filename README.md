@@ -37,16 +37,16 @@ Setting up a Quad-copter using Ardupilot  (APM2.8).
 
 # Misson Planner setup
 
-<img src="Misson_planner/Actual RC calibration.png" width=460> <img src="Misson_planner/adjust battery mAh.png" width=460>
+<img src="Misson_planner/Actual RC calibration.png" width=440> <img src="Misson_planner/adjust battery mAh.png" width=440>
 
-<img src="Misson_planner/GPS calibration.png" width=460> <img src="Misson_planner/GPS test.png" width=460>
+<img src="Misson_planner/GPS calibration.png" width=440> <img src="Misson_planner/GPS test.png" width=440>
 
-<img src="Misson_planner/Motor calibration.png" width=460> <img src="Misson_planner/Motor test.png" width=460>
+<img src="Misson_planner/Motor calibration.png" width=440> <img src="Misson_planner/Motor test.png" width=440>
 
-<img src="Misson_planner/pre_arm messages.png" width=460> <img src="Misson_planner/arming_checks.png" width=460>
+<img src="Misson_planner/pre_arm messages.png" width=440> <img src="Misson_planner/arming_checks.png" width=440>
 
 # Reverse setup of Left_Right, Fw_Bk
-<img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=460>
+<img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=440>
 
 # Propellor Setup
 
