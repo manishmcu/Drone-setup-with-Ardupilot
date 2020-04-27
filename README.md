@@ -43,7 +43,8 @@ Setting up a Quad-copter using Ardupilot  (APM2.8).
 
 <img src="Misson_planner/Motor calibration.png" width=350> <img src="Misson_planner/Motor test.png" width=350>
 
-<img src="pre_arm messages.png" width=350> <img src="Misson_planner/arming_checks.png" width=350>
+<img src="Misson_planner/pre_arm messages.png" width=350> <img src="Misson_planner/arming_checks.png" width=350>
+<img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=350>
 
 # Propellor Setup
 
