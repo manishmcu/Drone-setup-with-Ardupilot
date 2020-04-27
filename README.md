@@ -31,9 +31,19 @@ Setting up a Quad-copter using Ardupilot  (APM2.8).
    To overcome the problem, sometimes we use two GPS (we have to check the 
    Flight controller support two GPS or not) or prime quality GPS.
 
-....................Recommended parts for this Quad-copter ........................................................................ our drone.......................................
+# ....................Recommended parts for this Quad-copter ........................................................................ our drone.......................................
 
 <img src="APM_component.png" height=350> <img src="our drone.jpg" height=350>
+
+# Misson Planner setup
+
+<img src="Misson_planner/Actual RC calibration.png" width=350> <img src="Misson_planner/adjust battery mAh.png" width=350>
+
+<img src="Misson_planner/GPS calibration.png" width=350> <img src="Misson_planner/GPS test.png" width=350>
+
+<img src="Misson_planner/Motor calibration.png" width=350> <img src="Misson_planner/Motor test.png" width=350>
+
+<img src="pre_arm messages.png" width=350> <img src="Misson_planner/arming_checks.png" width=350>
 
 # Propellor Setup
 
