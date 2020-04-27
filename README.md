@@ -45,7 +45,7 @@ GPS calibration
 
 <img src="Misson_planner/GPS calibration.png" width=440> <img src="Misson_planner/GPS test.png" width=440>
 
-Motor calibratio
+Motor calibration
 
 <img src="Misson_planner/Motor calibration.png" width=440> <img src="Misson_planner/Motor test.png" width=440>
 
@@ -54,6 +54,8 @@ pre_arm messages
 <img src="Misson_planner/pre_arm messages.png" width=440> <img src="Misson_planner/arming_checks.png" width=440>
 
 ESE Calibration..#? link- https://youtu.be/z2G1P9bWM9w
+
+Tower App(Telemetry)- https://www.apkmonk.com/download-app/org.droidplanner.android/4_org.droidplanner.android_2016-10-10.apk/
 # Reverse setup of Left_Right, Fw_Bk
 <img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=440>
 
