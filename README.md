@@ -62,3 +62,5 @@ Tower App(Telemetry)- https://www.apkmonk.com/download-app/org.droidplanner.andr
 # Propellor Setup
 
 <img src="Propellor setup/Motor Position & Direction.jpg" width=400> <img src="Propellor setup/propellor_setup guide.jpg" width=450> 
+
+more...https://ardupilot.org/planner/index.html
