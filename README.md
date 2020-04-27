@@ -36,15 +36,20 @@ Setting up a Quad-copter using Ardupilot  (APM2.8).
 <img src="APM_component.png" height=350> <img src="our drone.jpg" height=350>
 
 # Misson Planner setup
+Actual RC calibration
 
 <img src="Misson_planner/Actual RC calibration.png" width=440> <img src="Misson_planner/adjust battery mAh.png" width=440>
 
+GPS calibration
 <img src="Misson_planner/GPS calibration.png" width=440> <img src="Misson_planner/GPS test.png" width=440>
 
+Motor calibratio
 <img src="Misson_planner/Motor calibration.png" width=440> <img src="Misson_planner/Motor test.png" width=440>
 
+pre_arm messages
 <img src="Misson_planner/pre_arm messages.png" width=440> <img src="Misson_planner/arming_checks.png" width=440>
 
+ESE Calibration..#? link- https://youtu.be/z2G1P9bWM9w
 # Reverse setup of Left_Right, Fw_Bk
 <img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=440>
 
