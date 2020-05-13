@@ -69,8 +69,10 @@ pre_arm messages
 
 <img src="Propellor setup/Motor Position & Direction.jpg" width=400> <img src="Propellor setup/propellor_setup guide.jpg" width=450> 
 
-more...https://ardupilot.org/planner/index.html
+For proper stabilization you may use Opyical_Flow sensor connection of the sensor and for Camera Setup there is uploaded a file named "Sensors & Cam connection"
 
 # !Ready to Flight!
 
 Tower App(Telemetry)- https://www.apkmonk.com/download-app/org.droidplanner.android/4_org.droidplanner.android_2016-10-10.apk/
+
+know more...https://ardupilot.org/planner/index.html
