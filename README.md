@@ -35,7 +35,13 @@ Setting up a Quad-copter using Ardupilot  (APM2.8).
 
 <img src="APM_component.png" height=350> <img src="our drone.jpg" height=350>
 
-# Misson Planner setup
+# Wiring and Connections:
+
+RC Controller Connection,
+
+<img src="" height=350> <img src="" height=350>
+
+# Misson Planner setup:
 
 Actual RC calibration
 
@@ -59,7 +65,7 @@ Tower App(Telemetry)- https://www.apkmonk.com/download-app/org.droidplanner.andr
 # Reverse setup of Left_Right, Fw_Bk
 <img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=440>
 
-# Propellor Setup
+# Propellor Setup:
 
 <img src="Propellor setup/Motor Position & Direction.jpg" width=400> <img src="Propellor setup/propellor_setup guide.jpg" width=450> 
 
