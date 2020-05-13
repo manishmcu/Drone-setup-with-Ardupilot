@@ -39,7 +39,7 @@ Setting up a Quad-copter using Ardupilot  (APM2.8).
 
 RC Controller Connection,
 
-<img src="RC Controller connection.png" height=350> <img src="Sensors & Cam connection/wiring 2.jpg" height=300>
+<img src="RC Controller connection.png" height=300> <img src="Sensors & Cam connection/wiring 2.jpg" height=300>
 
 # Misson Planner setup:
 
