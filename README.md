@@ -69,7 +69,7 @@ pre_arm messages
 
 <img src="Propellor setup/Motor Position & Direction.jpg" width=400> <img src="Propellor setup/propellor_setup guide.jpg" width=450> 
 
-For proper stabilization you may use Opyical_Flow sensor connection of the sensor and for Camera Setup there is uploaded a file named "Sensors & Cam connection"
+For proper stabilization you may use Optical_Flow sensor .Connection of the sensor and for Camera Setup there is uploaded a file named "Sensors & Cam connection"
 
 # !Ready to Flight!
 
