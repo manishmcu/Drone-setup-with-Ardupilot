@@ -61,8 +61,7 @@ pre_arm messages
 
 # ESE Calibration..
   .? link- https://youtu.be/z2G1P9bWM9w
-
-Tower App(Telemetry)- https://www.apkmonk.com/download-app/org.droidplanner.android/4_org.droidplanner.android_2016-10-10.apk/
+  
 # Reverse setup of Left_Right, Fw_Bk
 <img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=440>
 
@@ -71,3 +70,7 @@ Tower App(Telemetry)- https://www.apkmonk.com/download-app/org.droidplanner.andr
 <img src="Propellor setup/Motor Position & Direction.jpg" width=400> <img src="Propellor setup/propellor_setup guide.jpg" width=450> 
 
 more...https://ardupilot.org/planner/index.html
+
+# !Ready to Flight!
+
+Tower App(Telemetry)- https://www.apkmonk.com/download-app/org.droidplanner.android/4_org.droidplanner.android_2016-10-10.apk/
