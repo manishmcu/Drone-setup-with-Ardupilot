@@ -1,5 +1,5 @@
 # Drone-setup-with-Ardupilot
-Setting up a Quad-copter using Ardupilot  (APM2.8).
+Full setup guide for a Quad-copter using Ardupilot  (APM2.8).
 
 # Guide & Caution
 
