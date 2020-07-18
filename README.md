@@ -39,35 +39,35 @@ Full setup guide for a Quad-copter using Ardupilot  (APM2.8).
 
 RC Controller Connection,
 
-<img src="RC Controller connection.png" height=300> <img src="Sensors & Cam connection/wiring 2.jpg" height=300>
+<img src="RC Controller connection.png" height=290> <img src="Sensors & Cam connection/wiring 2.jpg" height=290>
 
 # Misson Planner setup:
 
 Actual RC calibration
 
-<img src="Misson_planner/Actual RC calibration.png" width=440> <img src="Misson_planner/adjust battery mAh.png" width=440>
+<img src="Misson_planner/Actual RC calibration.png" width=430> <img src="Misson_planner/adjust battery mAh.png" width=430>
 
 GPS calibration
 
-<img src="Misson_planner/GPS calibration.png" width=440> <img src="Misson_planner/GPS test.png" width=440>
+<img src="Misson_planner/GPS calibration.png" width=430> <img src="Misson_planner/GPS test.png" width=430>
 
 Motor calibration
 
-<img src="Misson_planner/Motor calibration.png" width=440> <img src="Misson_planner/Motor test.png" width=440>
+<img src="Misson_planner/Motor calibration.png" width=430> <img src="Misson_planner/Motor test.png" width=430>
 
 pre_arm messages
 
-<img src="Misson_planner/pre_arm messages.png" width=440> <img src="Misson_planner/arming_checks.png" width=440>
+<img src="Misson_planner/pre_arm messages.png" width=430> <img src="Misson_planner/arming_checks.png" width=430>
 
 # ESE Calibration..
   .? link- https://youtu.be/z2G1P9bWM9w
   
 # Reverse setup of Left_Right, Fw_Bk
-<img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=440>
+<img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=430>
 
 # Propellor Setup:
 
-<img src="Propellor setup/Motor Position & Direction.jpg" width=400> <img src="Propellor setup/propellor_setup guide.jpg" width=450> 
+<img src="Propellor setup/Motor Position & Direction.jpg" width=390> <img src="Propellor setup/propellor_setup guide.jpg" width=440> 
 
 For proper stabilization you may use Optical_Flow sensor .Connection of the sensor and for Camera Setup there is uploaded a file named "Sensors & Cam connection"
 
