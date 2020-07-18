@@ -65,7 +65,7 @@ pre_arm messages
 # Reverse setup of Left_Right, Fw_Bk
 <img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=430>
 
-# Propellor Setup:
+# Propeller Setup:
 
 <img src="Propellor setup/Motor Position & Direction.jpg" width=390> <img src="Propellor setup/propellor_setup guide.jpg" width=440> 
 
