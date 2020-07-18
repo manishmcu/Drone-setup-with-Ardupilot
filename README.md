@@ -41,7 +41,7 @@ RC Controller Connection,
 
 <img src="RC Controller connection.png" height=290> <img src="Sensors & Cam connection/wiring 2.jpg" height=290>
 
-# Misson Planner setup:
+# Mission Planner setup:
 
 Actual RC calibration
 
