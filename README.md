@@ -31,17 +31,21 @@ Full setup guide for a Quad-copter using Ardupilot  (APM2.8).
    To overcome the problem, sometimes we use two GPS (we have to check the 
    Flight controller support two GPS or not) or prime quality GPS.
 
-# Recommended parts ..................................... our drone
+## Recommended parts
 
-<img src="APM_component.png" height=350> <img src="our drone.jpg" height=350>
+<img src="APM_component.png" height=350>
 
-# Wiring and Connections:
+## our drone
+
+<img src="our drone.jpg" height=350>
+
+## Wiring and Connections:
 
 RC Controller Connection,
 
 <img src="RC Controller connection.png" height=290> <img src="Sensors & Cam connection/wiring 2.jpg" height=290>
 
-# Mission Planner setup:
+## Mission Planner setup:
 
 Actual RC calibration
 
@@ -59,13 +63,13 @@ pre_arm messages
 
 <img src="Misson_planner/pre_arm messages.png"> <img src="Misson_planner/arming_checks.png">
 
-# ESE Calibration..
+## ESE Calibration..
   .? link- https://youtu.be/z2G1P9bWM9w
   
-# Reverse setup of Left_Right, Fw_Bk
+## Reverse setup of Left_Right, Fw_Bk
 <img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png">
 
-# Propeller Setup:
+## Propeller Setup:
 
 <img src="Propellor setup/Motor Position & Direction.jpg" width=390> <img src="Propellor setup/propellor_setup guide.jpg" width=440> 
 
