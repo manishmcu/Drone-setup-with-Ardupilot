@@ -45,25 +45,25 @@ RC Controller Connection,
 
 Actual RC calibration
 
-<img src="Misson_planner/Actual RC calibration.png" width=430> <img src="Misson_planner/adjust battery mAh.png" width=430>
+<img src="Misson_planner/Actual RC calibration.png" width=430> <img src="Misson_planner/adjust battery mAh.png">
 
 GPS calibration
 
-<img src="Misson_planner/GPS calibration.png" width=430> <img src="Misson_planner/GPS test.png" width=430>
+<img src="Misson_planner/GPS calibration.png" width=430> <img src="Misson_planner/GPS test.png">
 
 Motor calibration
 
-<img src="Misson_planner/Motor calibration.png" width=430> <img src="Misson_planner/Motor test.png" width=430>
+<img src="Misson_planner/Motor calibration.png" width=430> <img src="Misson_planner/Motor test.png">
 
 pre_arm messages
 
-<img src="Misson_planner/pre_arm messages.png" width=430> <img src="Misson_planner/arming_checks.png" width=430>
+<img src="Misson_planner/pre_arm messages.png" width=430> <img src="Misson_planner/arming_checks.png">
 
 # ESE Calibration..
   .? link- https://youtu.be/z2G1P9bWM9w
   
 # Reverse setup of Left_Right, Fw_Bk
-<img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png" width=430>
+<img src="Misson_planner/reverse setup of Left_Right, Fw_Bk.png">
 
 # Propeller Setup:
 
